@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/jdyach/excerpt-customizer
  * Description:       Per-post control over excerpt word count and "read more" text, in both the Classic editor meta box and the Gutenberg sidebar panel.
  * Version:           1.1.0
- * Author:            Jacqui Dyachenko
+ * Author:            Jacqui Dyach
  * Author URI:        https://jacquid.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
